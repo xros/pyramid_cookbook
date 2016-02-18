@@ -1,6 +1,9 @@
-Pyramid Cookbook
-================
+Pyramid Community Cookbook
+==========================
 
-The Pyramid Cookbook presents topic-oriented "recipes" for using Pyramid.
+The Pyramid Community Cookbook presents topical, practical "recipes" of using
+Pyramid. It supplements the `main Pyramid documentation
+<http://docs.pylonsproject.org/projects/pyramid/en/latest/>`_.
 
-See http://docs.pylonshq.com/ for other documentation.
+To contribute your recipe to the Pyramid Community Cookbook, read `Contributing
+<https://github.com/Pylons/pyramid_cookbook/blob/master/contributing.md>`_.
